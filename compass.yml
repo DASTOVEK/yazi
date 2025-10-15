@@ -1,0 +1,13 @@
+name: yazi
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/3e001ea6-26b1-47ec-bbca-b9cb2762050f
+description: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
